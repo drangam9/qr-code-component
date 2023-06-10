@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-k_VeN06rdn)
+- Live Site URL: [Qr Code Component](https://drangam9.github.io/qr-code-component/)
 
 ## My process
 
@@ -54,7 +54,7 @@ This project made me realize I'm not very familiar with the 'position' property 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Github - [drangam9](https://github.com/drangam9)
+- Frontend Mentor - [drangam9](https://www.frontendmentor.io/profile/drangam9)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
