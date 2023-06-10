@@ -19,7 +19,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   flex-direction: column;
-  width: 340px;
+  width: 320px;
   height: auto;
   border-radius: 20px;
   background-color: white;
@@ -36,7 +36,7 @@ img {
 
 .text-container {
   flex-direction: column;
-  width: 80%;
+  width: 85%;
   padding-bottom: 20px;
 }
 
